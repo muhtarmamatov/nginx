@@ -9,7 +9,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/muhtarmamatov/pet-clinic-iac.git
+    repoURL: https://github.com/muhtarmamatov/nginx.git
     targetRevision: HEAD
     path: deploy/app
   destination:
